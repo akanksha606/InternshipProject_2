@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="23dp"
         android:text="@string/heading"
-        android:textSize="40sp"
+        android:textSize="45sp"
         android:textStyle="bold"
         app:fontFamily="cursive"
         app:layout_constraintLeft_toLeftOf="parent"
